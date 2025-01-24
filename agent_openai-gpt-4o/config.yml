@@ -1,0 +1,8 @@
+llm_endpoint: "openai-gpt-4o"
+warehouse_id: "30d6e63b35f828c5"
+uc_functions:
+  - "mzervou.media.content_comment_count"
+  - "mzervou.media.query_marketing_research"
+  - "mzervou.media.query_reviews"
+  - "mzervou.media.ask_genie_media"
+  - "mzervou.media.avg_watch_per_broadcaster"
